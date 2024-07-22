@@ -1,6 +1,6 @@
 # SistemaAutenticacao
 
-- Programa desenvolvido com a biblioteca Tkinter por um iniciante em Python
+- Programa desenvolvido em Tkinter(Python)
 - Descrição do Repositório:
   - database(pasta que contém um arquivo com a database utilizada no programa).
   - img(contém duas pastas(images,icons), a pasta images contém imagens da execução do programa, a pasta icons contém os icones utilizados no programa).
